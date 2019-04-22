@@ -1,7 +1,7 @@
 # Proyecto Nro 2 - La ruta más eficiente. 
 Imaginemos a un técnico de instalación de cableado eléctrico que tiene que conectar una red eléctrica entre varios pueblos para enviar cargas eléctricas de un pueblo a otro de la red. Su jefe, motivado a la situación actual del país, le obliga a utilizar la menor longitud de cable posible para ahorrar gastos. Adicionalmente, es necesario determinar la Ruta Más Eficiente para enviar una carga de un pueblo a otro. Los pueblos están conectados de la manera siguiente: 
 
-<div>
+<div align="center">
     <img src="https://i.imgur.com/g4wIlNy.png" />
 </div>
 
