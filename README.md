@@ -15,14 +15,14 @@ Se desea que Ud. ayude al técnico a determinar la ruta más eficiente mediante 
 
 Para esto se le facilitará un archivo de texto (ADY.TXT) con la matriz de adyacencia ponderada que define el grafo y los nombres de los pueblos a ser conectados mediante una emisión de carga. 
 
-(A B C D E F G) 
-[0 4 3 7 0 0 0] 
-[4 0 0 1 0 4 0] 
-[3 0 0 3 5 0 0] 
-[7 1 3 0 2 2 7] 
-[0 0 5 2 0 0 2] 
-[0 4 0 2 0 0 4] 
-[0 0 0 7 2 4 0] 
-[A G] 
+(A B C D E F G)  
+[0 4 3 7 0 0 0]   
+[4 0 0 1 0 4 0]   
+[3 0 0 3 5 0 0]   
+[7 1 3 0 2 2 7]   
+[0 0 5 2 0 0 2]   
+[0 4 0 2 0 0 4]   
+[0 0 0 7 2 4 0]   
+[A G]   
  
 En caso que no puede implementar la entrada por medio de archivos, debe especificar la entrada de datos manual. La salida se emitirá por salida estándar y consistirá en dos listas: la primera representando el árbol recubridor mínimo del grafo y la segunda, la ruta más eficiente solicitada para enviar la carga. 
